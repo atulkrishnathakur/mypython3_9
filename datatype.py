@@ -22,3 +22,4 @@ print(type(x))
 s = "Hello, Atul"
 print(type(s))
 
+
