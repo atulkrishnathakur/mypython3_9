@@ -8,3 +8,9 @@ def fun2(name):
 fun2("Atul")
 fun2("Krishna")
 fun2("Thakur")
+
+
+def fun3(*kids):
+  print("My Name is: " + kids[1])
+  
+fun3("Atul", "Krishna", "Thakur")
